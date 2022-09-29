@@ -1,0 +1,15 @@
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\C# function\Function\Function\bin\Debug\net6.0\Function.exe
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\C# function\Function\Function\bin\Debug\net6.0\Function.deps.json
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\C# function\Function\Function\bin\Debug\net6.0\Function.runtimeconfig.json
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\C# function\Function\Function\bin\Debug\net6.0\Function.dll
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\C# function\Function\Function\bin\Debug\net6.0\Function.pdb
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\C# function\Function\Function\obj\Debug\net6.0\Function.csproj.AssemblyReference.cache
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\C# function\Function\Function\obj\Debug\net6.0\Function.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\C# function\Function\Function\obj\Debug\net6.0\Function.AssemblyInfoInputs.cache
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\C# function\Function\Function\obj\Debug\net6.0\Function.AssemblyInfo.cs
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\C# function\Function\Function\obj\Debug\net6.0\Function.csproj.CoreCompileInputs.cache
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\C# function\Function\Function\obj\Debug\net6.0\Function.dll
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\C# function\Function\Function\obj\Debug\net6.0\refint\Function.dll
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\C# function\Function\Function\obj\Debug\net6.0\Function.pdb
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\C# function\Function\Function\obj\Debug\net6.0\Function.genruntimeconfig.cache
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\C# function\Function\Function\obj\Debug\net6.0\ref\Function.dll

@@ -1,0 +1,15 @@
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\C# function\Task4\Task4\obj\Debug\net6.0\Task4.csproj.AssemblyReference.cache
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\C# function\Task4\Task4\obj\Debug\net6.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\C# function\Task4\Task4\obj\Debug\net6.0\Task4.AssemblyInfoInputs.cache
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\C# function\Task4\Task4\obj\Debug\net6.0\Task4.AssemblyInfo.cs
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\C# function\Task4\Task4\obj\Debug\net6.0\Task4.csproj.CoreCompileInputs.cache
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\C# function\Task4\Task4\bin\Debug\net6.0\Task4.exe
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\C# function\Task4\Task4\bin\Debug\net6.0\Task4.deps.json
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\C# function\Task4\Task4\bin\Debug\net6.0\Task4.runtimeconfig.json
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\C# function\Task4\Task4\bin\Debug\net6.0\Task4.dll
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\C# function\Task4\Task4\bin\Debug\net6.0\Task4.pdb
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\C# function\Task4\Task4\obj\Debug\net6.0\Task4.dll
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\C# function\Task4\Task4\obj\Debug\net6.0\refint\Task4.dll
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\C# function\Task4\Task4\obj\Debug\net6.0\Task4.pdb
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\C# function\Task4\Task4\obj\Debug\net6.0\Task4.genruntimeconfig.cache
+E:\Учеба\4 курс 1 семестр\_ASP_Net та Web_Net розробка - Фірсов\C# function\Task4\Task4\obj\Debug\net6.0\ref\Task4.dll
